@@ -1,8 +1,6 @@
 <h1>Hi, I'm Muhammad! <br/><a href="https://www.linkedin.com/in/muhammad-abdulfatah-271355bb/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   <h2>Certifications</h2>
